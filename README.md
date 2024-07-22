@@ -1,2 +1,4 @@
-# Otus-Java-Prof-AV-2024-02
-Otus Java Professional Course
+# Java Developer.Prof course repository otus_java_2023_10
+
+### Student
+Alexander Vasilev
